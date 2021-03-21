@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Victor Basu, I am professsionally a Data Scientist and I love to do research on Machine Learning and Deep Learning.<br><br>
+I am Victor Basu, I am professionally a Data Scientist and I love to research about Machine Learning and Deep Learning. I am a 2X kaggle Expert.<br><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Real-time-stock-market-prediction)](https://github.com/victor369basu/Real-time-stock-market-prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=CycleGAN-with-Self-Attention)](https://github.com/victor369basu/CycleGAN-with-Self-Attention)
