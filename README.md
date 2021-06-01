@@ -6,7 +6,7 @@ You could follow me on LinkedIn at [@Victor Basu](https://www.linkedin.com/in/vi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Real-time-stock-market-prediction)](https://github.com/victor369basu/Real-time-stock-market-prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=CycleGAN-with-Self-Attention)](https://github.com/victor369basu/CycleGAN-with-Self-Attention)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Respiratory-diseases-recognition-through-respiratory-sound-with-the-help-of-deep-neural-network)](https://github.com/victor369basu/Respiratory-diseases-recognition-through-respiratory-sound-with-the-help-of-deep-neural-network)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=GoogleSheetPlot)](https://github.com/victor369basu/GoogleSheetPlot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=End2EndAutomaticSpeechRecognition)](https://github.com/victor369basu/End2EndAutomaticSpeechRecognition)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor369basu&langs_count=8&hide=jupyter%20notebook)](https://github.com/victor369basu/github-readme-stats)
 
