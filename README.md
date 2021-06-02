@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Victor Basu, I am professionally a Data Scientist and I love to research about Machine Learning and Deep Learning. I am a 2X kaggle Expert, you could follow me on Kaggle at [@basu369victor](https://www.kaggle.com/basu369victor). Other than Data Science and Machine Learning I do take some interest in web-development stuffs.
-You could follow me on LinkedIn at [@Victor Basu](https://www.linkedin.com/in/victor-basu-520958147)<br><br>
+You could also follow me on LinkedIn at [@Victor Basu](https://www.linkedin.com/in/victor-basu-520958147)<br><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Real-time-stock-market-prediction)](https://github.com/victor369basu/Real-time-stock-market-prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=End2EndAutomaticSpeechRecognition)](https://github.com/victor369basu/End2EndAutomaticSpeechRecognition)
