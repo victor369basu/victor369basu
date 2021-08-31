@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Victor Basu, I am professionally a Data Scientist and I love to research about Machine Learning and Deep Learning. I am a 2X kaggle Expert, you could follow me on Kaggle at [@basu369victor](https://www.kaggle.com/basu369victor). Other than Data Science and Machine Learning I do take some interest in web-development stuffs.
+I am Victor Basu, I am professionally a Data Scientist and I love to research about Machine Learning and Deep Learning. I am a kaggle Notebooks Master, you could follow me on Kaggle at [@basu369victor](https://www.kaggle.com/basu369victor). I have a hand full of experience with the technologies required today at the industry level. Other than Data Science and Machine Learning I do take some interest in web-development stuffs.
 You could also follow me on LinkedIn at [@Victor Basu](https://www.linkedin.com/in/victor-basu-520958147)<br><br>
 My contribution to Keras - [An approach towards implementing a depth estimation model with a convnet.](https://keras.io/examples/vision/depth_estimation/)
 
