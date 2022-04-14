@@ -6,6 +6,12 @@ My contribution to Keras -
 * [Drug Molecule Generation with VAE](https://keras.io/examples/generative/molecule_generation/)
 * [An approach towards implementing a depth estimation model with a convnet.](https://keras.io/examples/vision/depth_estimation/)
 
+### Facial Emotion Recognition
+![demo](https://github.com/victor369basu/facial-emotion-recognition/blob/master/Resources/emotion-recognition.gif)
+
+GitHub project repository - [Facial Emotion Recognition](https://github.com/victor369basu/facial-emotion-recognition)
+High quality youtube video available at - https://youtu.be/aTe05n6T5Vo
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Real-time-stock-market-prediction)](https://github.com/victor369basu/Real-time-stock-market-prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=End2EndAutomaticSpeechRecognition)](https://github.com/victor369basu/End2EndAutomaticSpeechRecognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=CycleGAN-with-Self-Attention)](https://github.com/victor369basu/CycleGAN-with-Self-Attention)
