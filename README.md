@@ -9,7 +9,10 @@ My contribution to Keras -
 ### Facial Emotion Recognition
 ![demo](https://github.com/victor369basu/facial-emotion-recognition/blob/master/Resources/emotion-recognition.gif)
 
+In this project I have developed an end-to-end pipeline for real-time Facial emotion recognition application through full-stack development. The frontend is developed in react.js and the backend is developed in FastAPI. The emotion prediction model is built with Tensorflow Keras, and for real-time face detection with animation on the frontend, Tensorflow.js have been used.
+
 GitHub project repository - [Facial Emotion Recognition](https://github.com/victor369basu/facial-emotion-recognition)
+
 High quality youtube video available at - https://youtu.be/aTe05n6T5Vo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Real-time-stock-market-prediction)](https://github.com/victor369basu/Real-time-stock-market-prediction)
