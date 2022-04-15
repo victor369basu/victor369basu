@@ -6,7 +6,10 @@ My contribution to Keras -
 * [Drug Molecule Generation with VAE](https://keras.io/examples/generative/molecule_generation/)
 * [An approach towards implementing a depth estimation model with a convnet.](https://keras.io/examples/vision/depth_estimation/)
 
-### Facial Emotion Recognition
+### Highlight
+
+#### Facial Emotion Recognition
+
 ![demo](https://github.com/victor369basu/facial-emotion-recognition/blob/master/Resources/emotion-recognition.gif)
 
 In this project I have developed an end-to-end pipeline for real-time Facial emotion recognition application through full-stack development. The frontend is developed in react.js and the backend is developed in FastAPI. The emotion prediction model is built with Tensorflow Keras, and for real-time face detection with animation on the frontend, Tensorflow.js have been used.
