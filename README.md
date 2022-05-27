@@ -22,7 +22,7 @@ High quality youtube video available at - https://youtu.be/aTe05n6T5Vo
 
 Below is a demo video of the proposed architecture.
 
-[![demo video](./assets/architecture.png)](https://youtu.be/RhTSnn41cnM)
+[![demo video](https://raw.githubusercontent.com/victor369basu/SagemakerHuggingfaceDashboard/master/assets/architecture.png)](https://youtu.be/RhTSnn41cnM)
 
 This is a solution that demonstrates how to train and deploy a pre-trained Huggingface model on AWS SageMaker and publish an AWS QuickSight Dashboard that visualizes the model performance over the validation dataset and Exploratory Data Analysis for the pre-processed training dataset. With this as the architecture for the proposing solution, we try to solve the classification of medical transcripts through Machine Learning, which is basically solving a Bio-medical NLP problem. In this solution, we also discuss feature engineering and handling imbalanced datasets through class weights while training by writing a custom Huggingface trainer in PyTorch.
 GitHub project repository - [Host QuickSight Dashboard for HuggingFace model monitoring deployed on SageMaker along with data EDA](https://github.com/victor369basu/SagemakerHuggingfaceDashboard)
