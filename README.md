@@ -32,9 +32,7 @@ GitHub project repository - [Host QuickSight Dashboard for HuggingFace model mon
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=End2EndAutomaticSpeechRecognition)](https://github.com/victor369basu/End2EndAutomaticSpeechRecognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=CycleGAN-with-Self-Attention)](https://github.com/victor369basu/CycleGAN-with-Self-Attention)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Respiratory-diseases-recognition-through-respiratory-sound-with-the-help-of-deep-neural-network)](https://github.com/victor369basu/Respiratory-diseases-recognition-through-respiratory-sound-with-the-help-of-deep-neural-network)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=Audio-Track-Separation)](https://github.com/victor369basu/Audio-Track-Separation)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor369basu&repo=SagemakerHuggingfaceDashboard)](https://github.com/victor369basu/SagemakerHuggingfaceDashboard)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor369basu&langs_count=8&hide=jupyter%20notebook)](https://github.com/victor369basu/github-readme-stats)
