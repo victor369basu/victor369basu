@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Victor Basu, I am professionally a Data Scientist and I love to research about Machine Learning and Deep Learning. I am a kaggle Notebooks Master, you could follow me on Kaggle at [@basu369victor](https://www.kaggle.com/basu369victor). I have a hand full of experience with the technologies required today at the industry level. Other than Data Science and Machine Learning I do take some interest in web-development stuffs.
 You could also follow me on LinkedIn at [@Victor Basu](https://www.linkedin.com/in/victor-basu-520958147)<br><br>
@@ -6,9 +6,9 @@ My contribution to Keras -
 * [Drug Molecule Generation with VAE](https://keras.io/examples/generative/molecule_generation/)
 * [An approach towards implementing a depth estimation model with a convnet.](https://keras.io/examples/vision/depth_estimation/)
 
-### Highlight
+# Highlight
 
-#### Facial Emotion Recognition
+## Facial Emotion Recognition
 
 ![demo](https://github.com/victor369basu/facial-emotion-recognition/blob/master/Resources/emotion-recognition.gif)
 
@@ -18,7 +18,7 @@ GitHub project repository - [Facial Emotion Recognition](https://github.com/vict
 
 High quality youtube video available at - https://youtu.be/aTe05n6T5Vo
 
-#### Architecture to host QuickSight Dashboard for HuggingFace model monitoring deployed on SageMaker along with data EDA
+## Architecture to host QuickSight Dashboard for HuggingFace model monitoring deployed on SageMaker along with data EDA
 
 <img align="center" alt="architecture" src="https://raw.githubusercontent.com/victor369basu/SagemakerHuggingfaceDashboard/master/assets/architecture.png"/><br>
 
