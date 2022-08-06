@@ -6,6 +6,10 @@ My contribution to Keras -
 * [Drug Molecule Generation with VAE](https://keras.io/examples/generative/molecule_generation/)
 * [An approach towards implementing a depth estimation model with a convnet.](https://keras.io/examples/vision/depth_estimation/)
 
+My work on **[Attention based Protein Structure Prediction](https://github.com/victor369basu/ProteinStructurePrediction)**
+
+![protein Structure Prediction](https://raw.githubusercontent.com/victor369basu/ProteinStructurePrediction/master/assets/intro.gif)
+
 # Highlight
 
 ## Facial Emotion Recognition
