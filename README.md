@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I am Victor Basu, I am professionally a Data Scientist and I love to research about Machine Learning and Deep Learning. I am a kaggle Notebooks Master, you could follow me on Kaggle at [@basu369victor](https://www.kaggle.com/basu369victor). I have a hand full of experience with the technologies required today at the industry level. Other than Data Science and Machine Learning I do take some interest in web-development stuffs.
+I am Victor Basu, I'm a passionate Data Scientist and Machine Learning Engineer with a strong background in turning data into actionable insights and building intelligent systems. My journey in the world of data and machine learning began with a curiosity to unravel the hidden patterns in data and use them to make informed decisions.
+I am a kaggle Notebooks Master, you could follow me on Kaggle at [@basu369victor](https://www.kaggle.com/basu369victor). I have a hand full of experience with the technologies required today at the industry level. Other than Data Science and Machine Learning I do take some interest in web-development stuffs.
 You could also follow me on LinkedIn at [@Victor Basu](https://www.linkedin.com/in/victor-basu-520958147)<br><br>
 My contribution to Keras - 
 * [Drug Molecule Generation with VAE](https://keras.io/examples/generative/molecule_generation/)
